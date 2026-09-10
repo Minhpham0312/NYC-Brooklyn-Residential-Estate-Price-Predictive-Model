@@ -6,6 +6,28 @@ AI_generated_anime/
 INKR_automation_private/
 GSU_spring_2026_sprint_project/
 
+# This repo is scoped to the Brooklyn housing project only.
+# Everything else in this working folder stays local/private.
+GSU_projects/
+Knowledge Base/
+Global Coffee Sales/
+SProject_PDF_tools/
+agentic-framework-examples/
+GenAI_Ac10/
+H1B_causal_match/
+aurora-hr-graphrag/
+localization_tool/
+localization_tool.md
+project-1-telemetry-pipeline.md
+project-2-fraud-detection-dwh.md
+project-3-healthcare-optimization.md
+project-4-credit-risk-scoring.md
+project-5-player-segmentation.md
+project-6-clinical-sentiment-rag.md
+project-7-h1b-causal-matcher.md
+project-8-topic-text-analytics
+KPI_config.json
+
 
 # OS files
 .DS_Store
@@ -16,7 +38,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-data_science_portfolio_roadmap.md/
+data_science_portfolio_roadmap.md
 
 
 # Python
