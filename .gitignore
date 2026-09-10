@@ -1,0 +1,45 @@
+# Folders to exclude from version control
+ComicsHead/
+.venv/
+node_modules/
+AI_generated_anime/
+INKR_automation_private/
+GSU_spring_2026_sprint_project/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+data_science_portfolio_roadmap.md/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Sensitive & Local Files
+.secret
+.secrets/
+*.env
+.DS_Store
